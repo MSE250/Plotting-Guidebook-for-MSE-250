@@ -17,7 +17,7 @@ compressed package into the same folder.
 
 3. Open `[file name].ipynb` and start running the program from the first block of code (starting from the middle may cause errors). The shortcut for running is: `shift + enter (macOS)`.
 
-## If you encounter any problems:
+## If you encounter any problems
 1. Make sure you have read the Guidebook.
 
 2. Ask ChatGPT (ChatGPT is a programming expert available 24/7 for your assistance).
