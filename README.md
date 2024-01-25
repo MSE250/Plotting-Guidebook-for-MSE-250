@@ -20,7 +20,7 @@ compressed package into the same folder.
 ## If you encounter any problems:
 1. Make sure you have read the Guidebook.
 
-2. Ask ChatGPT (ChatGPT is a software expert available 24/7 for your assistance).
+2. Ask ChatGPT (ChatGPT is a programming expert available 24/7 for your assistance).
 
 3. Use Google to search for your issue; many others may have encountered the same problem.
 
