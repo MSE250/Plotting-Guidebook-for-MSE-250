@@ -16,3 +16,14 @@ Please feel free to read along and execute the code and see how it works.
 compressed package into the same folder.
 
 3. Open `[file name].ipynb` and start running the program from the first block of code (starting from the middle may cause errors). The shortcut for running is: `shift + enter (macOS)`.
+
+## If you encounter any problems:
+1. Make sure you have read the tutorial.
+
+2. Ask ChatGPT (ChatGPT is a software expert available 24/7 for your assistance).
+
+3. Use Google to search for your issue; many others may have encountered the same problem.
+
+4. Discuss with others and don't hesitate to experiment (your computer won't explode, probably).
+
+5. Try using other software for data processing, such as Matlab or OriginLab.
