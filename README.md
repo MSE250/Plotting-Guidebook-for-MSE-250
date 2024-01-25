@@ -10,9 +10,9 @@ Please feel free to read along and execute the code and see how it works.
 
 ## How to use
 
-1. Please use the browser to open Jupyter Notebook: https://jupyter.org/try-jupyter/lab/. \
+1. Please use the browser to open Jupyter Notebook: https://jupyter.org/try-jupyter/lab/.
 
 2. Click on the `upload files` in the top left corner to upload the two files from the
-compressed package into the same folder. \
+compressed package into the same folder.
 
 3. Open `[file name].ipynb` and start running the program from the first block of code (starting from the middle may cause errors). The shortcut for running is: `shift + enter (macOS)`.
