@@ -8,19 +8,19 @@ However, you will need to upload your data for plotting to the folder on the lef
 
 Please feel free to read along and execute the code and see how it works.
 
-Hello everyone. In this series, we will be guiding you through the essentials of plotting and basic data statistics using Matlab and Jupyter Notebook.  \
+Hello everyone. In this series, we will be guiding you through the essentials of plotting and basic data statistics using Matlab and Jupyter Notebook. 
 
 ## Which platform is easier? 
-In my opinion, Matlab tends to be more user-friendly for those who are just starting out. \
+In my opinion, Matlab tends to be more user-friendly for those who are just starting out.
 
 ## How to use
 
 Matlab: \
-You can download Matlab from the official website:https: //www.mathworks.com/academia/tah-portal/michigan-state-university-1110432.html \
+You can download Matlab from the official website: `https: //www.mathworks.com/academia/tah-portal/michigan-state-university-1110432.html` \
 Alternatively, you can use Matlab online, which is a convenient option. However, be mindful that using Matlab online might present some issues, such as difficulty in accessing local files and occasional performance issues.
 
 Jupyter Notebook: \
-For those who prefer an online environment, Jupyter Notebook is a great choice. You can access it through this link: https://jupyter.org/try-jupyter/lab/ \
+For those who prefer an online environment, Jupyter Notebook is a great choice. You can access it through this link: `https://jupyter.org/try-jupyter/lab/` \
 Jupyter Notebook offers a robust, interactive environment for coding and data analysis.
 
 ## If you encounter any problems
