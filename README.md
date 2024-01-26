@@ -35,5 +35,4 @@ Jupyter Notebook offers a robust, interactive environment for coding and data an
 5. Try using other software for data processing, such as OriginLab, R, Excel (Not recommended for processing large amounts of data).
 
 ### Please read the annotations carefully and follow the instructions provided.
-### By adhering to the guidance at every step, the majority of issues you encounter can be resolved with the information found in the annotations.
-### However, if you neglect to read the instructions, or only partially follow them, nobody can guarantee a solution to your problems.
+### By adhering to the guidance at EVERY step, the majority of issues you encounter can be resolved with the information found in the annotations.
