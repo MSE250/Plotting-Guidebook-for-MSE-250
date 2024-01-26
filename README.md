@@ -8,14 +8,20 @@ However, you will need to upload your data for plotting to the folder on the lef
 
 Please feel free to read along and execute the code and see how it works.
 
+Hello everyone. In this series, we will be guiding you through the essentials of plotting and basic data statistics using Matlab and Jupyter Notebook.  \
+
+## Which platform is easier? 
+In my opinion, Matlab tends to be more user-friendly for those who are just starting out. \
+
 ## How to use
 
-1. Please use the browser to open Jupyter Notebook: https://jupyter.org/try-jupyter/lab/.
+Matlab: \
+You can download Matlab from the official website:https: //www.mathworks.com/academia/tah-portal/michigan-state-university-1110432.html \
+Alternatively, you can use Matlab online, which is a convenient option. However, be mindful that using Matlab online might present some issues, such as difficulty in accessing local files and occasional performance issues.
 
-2. Click on the `upload files` in the top left corner to upload the two files from the
-compressed package into the same folder.
-
-3. Open `[file name].ipynb` and start running the program from the first block of code (starting from the middle may cause errors). The shortcut for running is: `shift + enter (macOS)`.
+Jupyter Notebook: \
+For those who prefer an online environment, Jupyter Notebook is a great choice. You can access it through this link: https://jupyter.org/try-jupyter/lab/ \
+Jupyter Notebook offers a robust, interactive environment for coding and data analysis.
 
 ## If you encounter any problems
 1. Make sure you have read the Guidebook.
