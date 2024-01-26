@@ -33,3 +33,7 @@ Jupyter Notebook offers a robust, interactive environment for coding and data an
 4. Discuss with others and don't hesitate to experiment (your computer won't explode, probably).
 
 5. Try using other software for data processing, such as Matlab or OriginLab.
+
+### Please read the comments carefully and follow the instructions provided.
+### By adhering to the guidance at every step, the majority of issues you encounter can be resolved with the information found in the comments.
+### However, if you neglect to read the instructions, or only partially follow them, nobody cannot guarantee a solution to your problems.
