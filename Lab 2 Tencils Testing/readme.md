@@ -5,6 +5,8 @@
 3. How to plot graphs \
 3.1. Line Graph \
    ![error](/pic/1.png)
+   <img src="[您的图片链接](https://github.com/xiaothua/Plotting-Guidebook-for-MSE-250/blob/main/pic/1.png)" width="100" height="100">
+
 3.2. Subplot \
 3.3. Histogram
 5. Data statistics
