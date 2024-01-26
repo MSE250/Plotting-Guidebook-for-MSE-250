@@ -4,12 +4,14 @@
 2. How to do calculations
 3. How to plot graphs \
 3.1. Line Graph \
-   ![error](/pic/1.png)
-   <img src="(https://github.com/xiaothua/Plotting-Guidebook-for-MSE-250/blob/main/pic/1.png)" width="300" height="300">
-
+   ![error](/pic/2.png)
 3.2. Subplot \
+   ![error](/pic/3.png)
 3.3. Histogram
+   ![error](/pic/4.png)
 5. Data statistics
+6. Get tangent
+   ![error](/pic/1.png)
 
 ### If you use Jupyter Notebook
 1. Please use the browser to open Jupyter Notebook: `https://jupyter.org/try-jupyter/lab/`.
