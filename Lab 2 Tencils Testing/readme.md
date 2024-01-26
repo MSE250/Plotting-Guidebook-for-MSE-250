@@ -4,9 +4,10 @@
 2. How to do calculations
 3. How to plot graphs \
 3.1. Line Graph \
+   ![error](/pic/1.png)
 3.2. Subplot \
 3.3. Histogram
-4. Data statistics
+5. Data statistics
 
 ### If you use Jupyter Notebook
 1. Please use the browser to open Jupyter Notebook: `https://jupyter.org/try-jupyter/lab/`.
