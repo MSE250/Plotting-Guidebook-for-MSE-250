@@ -15,11 +15,11 @@ In my opinion, Matlab tends to be more user-friendly for those who are just star
 
 ## How to use
 
-Matlab: \
+### Matlab:
 You can download Matlab from the official website: `https: //www.mathworks.com/academia/tah-portal/michigan-state-university-1110432.html` \
 Alternatively, you can use Matlab online, which is a convenient option. However, be mindful that using Matlab online might present some issues, such as difficulty in accessing local files and occasional performance issues.
 
-Jupyter Notebook: \
+### Jupyter Notebook:
 For those who prefer an online environment, Jupyter Notebook is a great choice. You can access it through this link: `https://jupyter.org/try-jupyter/lab/` \
 Jupyter Notebook offers a robust, interactive environment for coding and data analysis.
 
