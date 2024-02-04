@@ -11,7 +11,7 @@ I've made an effort to keep each video concise (30 sec ~ 3 mins), ensuring you g
 ## Which platform is easier? 
 In my opinion, Matlab tends to be more user-friendly for those who are just starting out.
 
-## How to use
+## How to download
 
 ### Matlab
 You can download Matlab from the official website: `https: //www.mathworks.com/academia/tah-portal/michigan-state-university-1110432.html` \
@@ -27,6 +27,6 @@ JupyterLab offers a robust, interactive environment for coding and data analysis
 
 2. Use Google to search for your issue; many others may have encountered the same problem.
 
-3. Discuss with others and don't hesitate to experiment (your computer won't explode, probably).
+3. Discuss with others and have a try (your computer won't explode, probably).
 
 4. Try using other software for data processing, such as OriginLab, R, Excel (Not recommended for processing large amounts of data).
