@@ -6,8 +6,6 @@ Watching all videos won't take more than 10 minutes ☕️.
 
 In this guidebook, we'll empower students with no prior experience in Matlab or Python to swiftly acquire the plotting skills needed for your MSE250 lab reports.
 
-I've made an effort to keep each video concise (30 sec ~ 3 mins), ensuring you get the information you need before running out of patience.
-
 ## Which platform is easier? 
 In my opinion, Matlab tends to be more user-friendly for those who are just starting out.
 
