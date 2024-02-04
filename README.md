@@ -2,7 +2,7 @@
 
 Welcome to this quick-start guide!
 
-Watching all videos won't take more than 10 minutes ☕️.
+Watching all videos won't take more than 10 minutes ☕️. Each video 30 sec ~ 2 min.
 
 In this guidebook, we'll empower students with no prior experience in Matlab or Python to swiftly acquire the plotting skills needed for your MSE250 lab reports.
 
