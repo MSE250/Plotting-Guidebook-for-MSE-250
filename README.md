@@ -1,6 +1,6 @@
 # Plotting-Guidebook-for-MSE-250
 
-Welcome to this quick-start guide!
+Welcome to this quick-start guide! Watching all tutorials won't take more than 10 minutes ☕️.
 
 In this guidebook, we'll empower students with no prior experience in Matlab or Python to swiftly acquire the plotting skills needed for your MSE250 lab reports.
 
