@@ -27,4 +27,4 @@ JupyterLab offers a robust, interactive environment for coding and data analysis
 
 3. Discuss with others and have a try (your computer won't explode, probably).
 
-4. Try using other software for data processing, such as OriginLab, R, Excel (Not recommended for processing large amounts of data).
+4. Try using other software for data processing, such as OriginLab, R, Excel (Not recommended for processing large amounts of data or complicated calculations).
