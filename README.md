@@ -6,7 +6,7 @@ In this guidebook, we'll empower students with no prior experience in Matlab or 
 
 Each folder includes a video tutorial, the code scripts and the relevant data used in the video.
 
-I've made an effort to keep each video concise (2~5 mins), ensuring you get the information you need before running out of patience.
+I've made an effort to keep each video concise (30 sec ~ 3 mins), ensuring you get the information you need before running out of patience.
 
 ## Which platform is easier? 
 In my opinion, Matlab tends to be more user-friendly for those who are just starting out.
