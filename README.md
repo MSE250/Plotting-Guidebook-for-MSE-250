@@ -7,7 +7,8 @@ Watching all videos won't take more than 10 minutes ☕️. Each video 30 sec ~ 
 In this guidebook, we'll empower students with no prior experience in Matlab or Python to swiftly acquire the plotting skills needed for your MSE250 lab reports.
 
 ## Which platform is easier? 
-In my opinion, Matlab tends to be more user-friendly for those who are just starting out.
+In my opinion, Matlab tends to be more user-friendly for those who are just starting out.\
+But if you want to learn python further in the future, using JupyterLab for plotting is a good start.
 
 ## How to download
 
