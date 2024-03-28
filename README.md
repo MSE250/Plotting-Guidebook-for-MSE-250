@@ -16,12 +16,12 @@ You can download Matlab from the official website: `https: //www.mathworks.com/a
 Alternatively, you can use Matlab online, which is a convenient option. However, be mindful that using Matlab online might present some issues, such as difficulty in accessing local files and occasional performance issues.
 
 ### JupyterLab
-For those who prefer an online environment, JupyterLab is a great choice. You can access it through this link: `https://jupyter.org/try-jupyter/lab/` \
+For those who prefer an online environment, online JupyterLab is a great choice. You can access it through this link: `https://jupyter.org/try-jupyter/lab/` \
 JupyterLab offers a robust, interactive environment for coding and data analysis.
 
 ## If you encounter any problems
 
-1. Ask ChatGPT (ChatGPT is a programming expert available 24/7 for your assistance).
+1. Ask ChatGPT，Claude etc. (Both ChatGPT and Claude are programming experts available 24/7 for your assistance).
 
 2. Use Google to search for your issue; many others may have encountered the same problem.
 
