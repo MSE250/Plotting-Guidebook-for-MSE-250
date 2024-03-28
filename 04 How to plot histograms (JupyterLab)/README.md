@@ -1,3 +1,4 @@
 ### The video tutorial (Click on the image)
 
-[![视频截图](https://raw.githubusercontent.com/MSE250/Plotting-Guidebook-for-MSE-250/main/pic/cover04_1.png)](https://www.youtube.com/watch?v=fRtjU-RKRnw)
+[<img src="https://raw.githubusercontent.com/MSE250/Plotting-Guidebook-for-MSE-250/main/pic/cover04_1.png" width="800">](https://www.youtube.com/watch?v=fRtjU-RKRnw)
+
