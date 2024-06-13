@@ -20,6 +20,8 @@ Alternatively, you can use Matlab online, which is a convenient option. However,
 For those who prefer an online environment, online JupyterLab is a great choice. You can access it through this link: `https://jupyter.org/try-jupyter/lab/` \
 JupyterLab offers a robust, interactive environment for coding and data analysis.
 
+Google Colab is also a good choice (https://colab.research.google.com). The Colab is able to run Jupyter Notebook Script as well. But the GUI and features of Colab follows "Google style", maybe it is easier to use.
+
 ## If you encounter any problems
 
 1. Ask ChatGPT，Claude etc. (Both ChatGPT and Claude are programming experts available 24/7 for your assistance).
