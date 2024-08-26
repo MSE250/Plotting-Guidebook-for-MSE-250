@@ -1,8 +1,8 @@
 # Tools for data analysis, visualization, and lab report writing in MSE 250
 
 There are multiple options for analyzing and visualizing data, as well as summarizing your findings in a final lab report for the various MSE 250 lab exercises.
-1. Jupyter Notebook using Python (preferred)
-1. MATLAB
+1. [Jupyter notebook](#Jupyter) using Python (preferred)
+1. [MATLAB](#MATLAB)
 1. Excel (discouraged)
 
 
