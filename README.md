@@ -9,9 +9,9 @@ There are multiple options for analyzing and visualizing data, as well as summar
 
 ## Jupyter
 
-Jupyter is a platform for computing that allows code, graphics, such as plots and images, rich text, and mathematics displayed all on hte same webpage, with active code that can be updated and executed within a web browser. This makes code much more readable and shareable, and makes Jupyter a great way to learn, understand, and communicate a wide variety of calculations. Jupyter notebooks are gaining traction in industry and we expect it to become the preeminent tool for data analysis and visualization in industry and academia.
+Jupyter is a platform for computing that allows code, graphics, such as plots and images, rich text, and mathematics displayed all on the same webpage, with active code that can be updated and executed within a web browser. This makes code much more readable and shareable, and makes Jupyter a great way to learn, understand, and communicate a wide variety of calculations. Jupyter notebooks are gaining traction in industry and we expect it to become the preeminent tool for data analysis and visualization in industry and academia.
 
-[JupyterHub](https://jupyterhub.readthedocs.io/en/stable/) is one of multiple ways to use Jupyter notebooks, but is one of the simplest since it does not require installing software (except for a web browser) on your computer. If you want to run Jupyter notebooks locally, i.e. directly on your own machine, it is recommended to use the [Anaconda distribution](https://anaconda.org/anaconda/jupyter).
+[JupyterHub](https://jupyterhub.readthedocs.io/en/stable/) is one of multiple ways to use Jupyter notebooks. It is one of the simplest ways since it does not require installing software (except for a web browser) on your computer. If you want to run Jupyter notebooks locally, i.e. directly on your own machine, it is recommended to use the [Anaconda distribution](https://anaconda.org/anaconda/jupyter).
 
 ### How to use JupyterHub as an MSU engineering student
 
