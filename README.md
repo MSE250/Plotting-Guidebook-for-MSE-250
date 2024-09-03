@@ -19,11 +19,15 @@ The Division of Engineering Computing Services (DECS) provides the infrastructur
 
 1. Start by logging into the [EGR JupyterHub](https://jupyterhub.egr.msu.edu) with your engineering(!) credentials.
 2. The webpage is divided into the directory view on the left and the file viewer on the right. You will notice that the left panel reflects your EGR "home" directory.
-3. It is recommended to create a separate folder for each MSE 250 lab in which you plan to use a Jupyter notebook for analysis, visualization, and documentation. This allows to keep the data files and the notebook file together. Moreover, downloading a complete notebook (with all quastions addressed) as a PDF from JupyterHub and uploading that to D2L is an acceptable submission for a lab report.
+3. It is recommended to create a separate folder for each MSE 250 lab in which you plan to use a Jupyter notebook for analysis, visualization, and documentation. This allows to keep the data files and the notebook file together. Moreover, downloading a complete notebook (with all questions addressed) as a PDF from JupyterHub and uploading that to D2L is an acceptable submission for a lab report.
+
+### Quick start in Python
+
+The file 'PythonCrashcourse.ipynb' contains a summary of the most relevant aspects of Python and exemplifies how to utilize this potent programming language for your tasks at hand.
 
 ### Quick start in Jupyter
 
-The file 'JupyterLab_plotting_guidebook.ipynb' contains a crash course that should equip you with some basic knowledge on how to access your measured data, do data manipulations, and ultimatly visualize your results.
+The file 'JupyterLab_plotting_guidebook.ipynb' contains a variety of worked examples that should equip you with some basic knowledge on how to access your measured data, do data manipulations, and ultimately visualize your results.
 
 Copy this file into a convenient location within your EGR home directory, fire up [JupyterHub](https://jupyterhub.egr.msu.edu), click the file to open it in the viewer, and then explore its content.
 
@@ -36,12 +40,12 @@ MATLAB is a programming language that allows to perform data analysis and visual
 ### How to use MATLAB as an MSU engineering student
 
 You can [download MATLAB](https://www.mathworks.com/academia/tah-portal/michigan-state-university-1110432.html) from the official website, then follow the [installation instructions](https://www.mathworks.com/videos/how-to-install-matlab-1525083586145.html).
-Alternatively, you can [use MATLAB online](https://matlab.mathworks.com/), which is a convenient option that just requires logging in with your MSU credentials.
-However, be mindful that using MATLAB online might present some issues, such as difficulty in accessing local files and occasional performance issues.
+
+Alternatively, you can [use MATLAB online](https://matlab.mathworks.com/), which is a convenient option that just requires logging in with your MSU credentials. However, be mindful that using MATLAB online might present some issues, such as difficulty in accessing local files and occasional performance issues.
 
 ### Quick start in MATLAB
 
-The file 'MATLAB_plotting_guidebook.mlx' contains a crash course that should equip you with some basic knowledge on how to access your measured data, do data manipulations, and ultimatly visualize your results.
+The file 'MATLAB_plotting_guidebook.mlx' contains a variety of worked examples that should equip you with some basic knowledge on how to access your measured data, do data manipulations, and ultimately visualize your results.
 
 Copy this file into a convenient location on your local machine, open it from MATLAB, and then explore its content.
 
