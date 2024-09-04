@@ -29,7 +29,7 @@ The file 'PythonCrashcourse.ipynb' contains a summary of the most relevant aspec
 
 The file 'JupyterLab_plotting_guidebook.ipynb' contains a variety of worked examples that should equip you with some basic knowledge on how to access your measured data, do data manipulations, and ultimately visualize your results.
 
-Copy this file into a convenient location within your EGR home directory, fire up [JupyterHub](https://jupyterhub.egr.msu.edu), click the file to open it in the viewer, and then explore its content.
+Copy these files into a convenient location within your EGR home directory, fire up [JupyterHub](https://jupyterhub.egr.msu.edu), click a file to open it in the viewer, and then explore its content.
 
 
 
